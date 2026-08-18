@@ -1,0 +1,13 @@
+*.class
+out/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Runtime-generated application data
+users.txt
+cellPhones.txt
+
+*.log
+*.tmp

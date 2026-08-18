@@ -1,0 +1,25 @@
+
++----------------------------------------------------------+
+|     			Employee                           |
++----------------------------------------------------------+
+|                    - name: String      		   |
+|                    - idNumber: int                       |
+|                    - department: String		   |
+|                    - position: String			   |
+|                    - salary: double                      |
++----------------------------------------------------------+
+| + Employee(name, idNumber, department, position, salary) |
+| + Employee(name, idNumber) 				   |
+| + Employee() 						   |
+| + setName(name): void 				   |
+| + setIdNumber(idNumber): void 			   |
+| + setDepartment(department): void 			   |
+| + setPosition(position): void 			   |
+| + setSalary(salary): void				   |
+| + getName(): String 					   |
+| + getIdNumber(): int 					   |
+| + getDepartment(): String 				   |
+| + getPosition(): String 				   |
+| + getSalary(): double 				   |
+| + toString(): String 					   |
++----------------------------------------------------------+
